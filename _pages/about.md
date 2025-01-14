@@ -1,5 +1,5 @@
 ---
-permalink: 
+permalink: /
 title: "Welcome to Wei WANG's Website!"
 author_profile: true
 redirect_from: 
