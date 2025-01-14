@@ -14,5 +14,12 @@ My profiles on [MathSciNet](https://mathscinet.ams.org/mathscinet/author?authorI
 **Contact Me**
 
 E-mail: 2201110024(at)stu.pku.edu.cn
-
 Address: Room 314 of 20th Building, Peking University, Yiheyuan Road 5, Beijing, P.R.China, 100871
+
+**Research Interests**
+
+Geometric variational problems, homogenization theory, elliptic equations, and parabolic equations.
+
+**Analysis Seminars**
+
+I am co-organizing a series of long-term [analysis seminars](year-archive.html) at Peking University on topics related to partial differential equations and geometric measure theory.  
