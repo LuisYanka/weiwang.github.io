@@ -12,11 +12,11 @@ main:
   - title: "Talks and Presentations"
     url: talks/    
 
-  - title: "Seminars"
-    url: year-archive/
-
   - title: "Teaching"
     url: teaching/    
+
+ # - title: "Blog Posts"
+ #   url: year-archive/
     
  # - title: "Portfolio"
  #   url: /portfolio/
