@@ -19,4 +19,4 @@ Address: Room 314 of 20th Building, Peking University, Yiheyuan Road 5, Beijing,
 
 **Analysis Seminars**
 
-I am co-organizing a series of long-term [analysis seminars](https://luisyanka.github.io/weiwang.github.io/year-archive/) at Peking University on topics related to partial differential equations and geometric measure theory.  
+I am co-organizing a series of long-term [analysis seminars](https://luisyanka.github.io/GMT/) at Peking University on topics related to partial differential equations and geometric measure theory.  
