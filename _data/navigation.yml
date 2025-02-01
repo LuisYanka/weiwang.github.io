@@ -15,8 +15,8 @@ main:
   - title: "Teaching"
     url: teaching/    
 
- # - title: "Blog Posts"
- #   url: year-archive/
+  - title: "Notes and Explanatory Papers"
+    url: year-archive/
     
  # - title: "Portfolio"
  #   url: /portfolio/
