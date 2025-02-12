@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Ph.D. candidate majoring in Theoretical Mathematics under the supervision of Prof. [Zhifei Zhang](http://english.math.pku.edu.cn//Faculty/Facuity/ALL/old_site_Faculty_ALL_2_128.htm) in the School of Mathematical Sciences at [Peking University](http://english.math.pku.edu.cn/). Before this, I obtained my Bachelor's degree in Mathematics and Applied Mathematics in the School of Mathematical Sciences at [Zhejiang University](http://www.math.zju.edu.cn/mathen/) in 2022. My B.S. advisor is Prof. [Ting Zhang](https://person.zju.edu.cn/en/zhangting). Here is my full [CV](https://github.com/LuisYanka/CVofWW/raw/main/cv.pdf) (2025.02.10).
+I am currently a Ph.D. candidate majoring in Theoretical Mathematics under the supervision of Prof. [Zhifei Zhang](http://english.math.pku.edu.cn//Faculty/Facuity/ALL/old_site_Faculty_ALL_2_128.htm) in the School of Mathematical Sciences at [Peking University](http://english.math.pku.edu.cn/). Before this, I obtained my Bachelor's degree in Mathematics and Applied Mathematics in the School of Mathematical Sciences at [Zhejiang University](http://www.math.zju.edu.cn/mathen/) in 2022. My B.S. advisor is Prof. [Ting Zhang](https://person.zju.edu.cn/en/zhangting). Here is my full [CV](https://github.com/LuisYanka/CVofWW/raw/main/cv.pdf) (2025.02.11).
 
 My profiles on [MathSciNet](https://mathscinet.ams.org/mathscinet/author?authorId=1548566).
 
